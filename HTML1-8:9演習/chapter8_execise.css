@@ -63,13 +63,11 @@ main{
    }
 
    @media screen and (max-width:768px){
-   	.step-area{
-   		margin: 0 auto;
-   	}
    	main{
    		width: 90%;
    	}
    	.step-box{
+   		width: 100%;
    		margin: 0 auto;
    		margin-top: 20px;
    		margin-bottom: 20px;
